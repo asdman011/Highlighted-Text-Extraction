@@ -13,7 +13,7 @@ This Flask application allows you to upload a DOCX file, extract highlighted tex
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/asdman011/Highlighted-Text-Extraction.git
 
 2. Install dependencies:
 
