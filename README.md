@@ -37,10 +37,6 @@ or
 3. View the extracted highlighted text in a table.
 4. Download the highlights as a CSV file.
 
-## Folder Structure
-
-- `uploads/`: Temporary storage for uploaded DOCX files.
-- `outputs/`: Destination folder for generated CSV files.
 
 ## Dependencies
 
